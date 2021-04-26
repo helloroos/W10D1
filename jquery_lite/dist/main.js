@@ -15,7 +15,7 @@
   \************************************/
 /***/ ((module) => {
 
-eval("class DOMNodeCollection {\n    constructor(HTMLElements) {\n        this.HTMLElements = HTMLElements;\n    }\n\n}\n\nmodule.exports = DOMNodeCollection;\n\n//# sourceURL=webpack:///./src/dom_node_collection.js?");
+eval("class DOMNodeCollection {\n    constructor(HTMLElements) {\n        this.HTMLElements = HTMLElements;\n    }\n\n    html(string) {\n\n    }\n\n    empty() {\n\n    }\n\n    append() {\n\n    }\n\n    attr() {\n\n    }\n\n    addClass() {\n\n    }\n\n    removeClass() {\n        \n    }\n\n}\n\nmodule.exports = DOMNodeCollection;\n\n//# sourceURL=webpack:///./src/dom_node_collection.js?");
 
 /***/ }),
 

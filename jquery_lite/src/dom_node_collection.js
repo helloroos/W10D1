@@ -3,6 +3,30 @@ class DOMNodeCollection {
         this.HTMLElements = HTMLElements;
     }
 
+    html(string) {
+
+    }
+
+    empty() {
+
+    }
+
+    append() {
+
+    }
+
+    attr() {
+
+    }
+
+    addClass() {
+
+    }
+
+    removeClass() {
+        
+    }
+
 }
 
 module.exports = DOMNodeCollection;
